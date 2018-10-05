@@ -38,6 +38,14 @@
     background-color: #525252;
 }
 
+.ui-menu-color-interests {
+    background-color: #FF4000;
+}
+
+.ui-menu-color-github {
+    background-color: #2E2EFE;
+}
+
 /*------------------------------------Special paddings/margins-----------------*/
 
 body {
@@ -78,6 +86,17 @@ h4 {
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
+}
+
+a {
+    color: #FF8000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FF0000;
+    text-decoration: none;
+    transition: .5s ease-in-out;
 }
 
 
@@ -352,6 +371,14 @@ button[type="submit"] {
     color: #fafafa;
 }
 
+/*------------------------------------Interests-----------------*/
+.groups-societies {
+    background-color: #F5A9F2;
+}
+/*------------------------------------Conferences-----------------*/
+.bg-color-conferences {
+    background-color: #F4FA58;
+}
 /*------------------------------------Media Querry-----------------*/
 
 @media(min-width: 992px) {
