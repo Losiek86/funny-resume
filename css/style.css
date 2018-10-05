@@ -375,6 +375,9 @@ button[type="submit"] {
 .groups-societies {
     background-color: #F5A9F2;
 }
+div#map {
+    min-height: 360px;
+}
 /*------------------------------------Conferences-----------------*/
 .bg-color-conferences {
     background-color: #F4FA58;
